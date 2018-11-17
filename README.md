@@ -1,7 +1,9 @@
 # Kill Yourself
 
 Demonstration:
+
 https://streamable.com/ixj4h
 
 FiveM Topic:
-Soon
+
+https://forum.fivem.net/t/release-kill-yourself/181931
